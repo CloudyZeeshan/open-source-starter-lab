@@ -6,8 +6,8 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 
 - Level: 3 - Trust Builder
 - First merged PR: #77
-- Latest merged PR: #291
-- Primary skill: open source workflow
+- Latest merged PR: #347
+- Primary skill: testing
 - Proof: merged pull request with maintainer review and project checks
 
 ## Verified Contributions
@@ -44,9 +44,11 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 
 | #291 | 2026-09-10 | open source workflow | Update createDailyIssue.ts | No linked issue was found in the PR body. |
 
+| #347 | 2026-09-13 | testing | Update findRepoIssueIdeas.test.ts | No linked issue was found in the PR body. |
+
 ## Suggested Next Step
 
-- Second PR route: #274 Give src/progressionPath.ts some real test coverage
+- Second PR route: #345 Catch workflows stuck in queued for hours
 
 ## Share Line
 
