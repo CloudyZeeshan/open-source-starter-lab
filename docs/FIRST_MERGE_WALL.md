@@ -398,6 +398,12 @@ Keep your entry short and professional.
 - I worked on: fix: preserve queued workflow count
 - I learned: how a focused pull request becomes a visible open-source contribution
 
+### @Ruvaaa
+
+- First merged PR: #337
+- I worked on: Implement personalized welcome message for contributors
+- I learned: how a focused pull request becomes a visible open-source contribution
+
 ## Why This Exists
 
 Open source can feel invisible when you are starting out. This page gives new contributors a simple record of their first merge and shows future visitors that real beginners are welcome here.
