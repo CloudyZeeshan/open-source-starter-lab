@@ -6,7 +6,7 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 
 - Level: 3 - Trust Builder
 - First merged PR: #77
-- Latest merged PR: #358
+- Latest merged PR: #351
 - Primary skill: open source workflow
 - Proof: merged pull request with maintainer review and project checks
 
@@ -51,6 +51,8 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 | #350 | 2026-09-13 | open source workflow | Refactor findRepoIssueIdeas to support custom root path | No linked issue was found in the PR body. |
 
 | #358 | 2026-09-14 | open source workflow | Sync main into P-r-e-m-i-u-m-patch-15 | No linked issue was found in the PR body. |
+
+| #351 | 2026-09-14 | open source workflow | Enhance tests for findRepoIssueIdeas function | No linked issue was found in the PR body. |
 
 ## Suggested Next Step
 
