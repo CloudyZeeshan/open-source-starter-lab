@@ -4,10 +4,10 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 
 ## Current Level
 
-- Level: 1 - First PR Contributor
+- Level: 2 - Returning Contributor
 - First merged PR: #337
-- Latest merged PR: #337
-- Primary skill: open source workflow
+- Latest merged PR: #339
+- Primary skill: cli
 - Proof: merged pull request with maintainer review and project checks
 
 ## Verified Contributions
@@ -16,9 +16,11 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 | --- | --- | --- | --- | --- |
 | #337 | 2026-09-14 | open source workflow | Implement personalized welcome message for contributors | #335 |
 
+| #339 | 2026-09-14 | cli | Add welcome command to CLI | #335 |
+
 ## Suggested Next Step
 
-- Second PR route: #356 Give scripts/findRepoIssueIdeas.ts some real test coverage
+- Second PR route: #361 Add CLI tests for unknown commands
 
 ## Share Line
 
